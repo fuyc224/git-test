@@ -2,14 +2,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>learn</groupId>
-		<artifactId>learn</artifactId>
+		<groupId>com.fuyc.learn</groupId>
+		<artifactId>learn-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.fuyc.learn</groupId>
+	
 	<artifactId>learn_git</artifactId>
 	<name>learn-git</name>
 	<description>git learn and test</description>
+	
 	<build>
 		<plugins>
 			<plugin>
