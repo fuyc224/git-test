@@ -6,8 +6,8 @@
 		<artifactId>learn</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>learn-git</groupId>
-	<artifactId>learn-git</artifactId>
+	<groupId>com.fuyc.learn</groupId>
+	<artifactId>learn_git</artifactId>
 	<name>learn-git</name>
 	<description>git learn and test</description>
 	<build>
